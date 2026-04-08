@@ -2,6 +2,9 @@
 
 Веб-додаток для комплексного оцінювання стартап-проектів на основі математичної моделі з використанням нечіткої логіки та S-подібних функцій належності.
 
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg?style=for-the-badge)](https://romankozar.github.io/startup-evaluation-tool/)
+[![Version](https://img.shields.io/badge/version-1.0.0-orange.svg?style=for-the-badge)](https://github.com/RomanKozar/startup-evaluation-tool/releases)
+
 ![Головна сторінка](preview.png)
 
 ## 🌟 Особливості
